@@ -1,0 +1,8 @@
+[
+    {
+        "id": "default_kb",
+        "name": "默认宠物知识库",
+        "description": "包含基础宠物知识",
+        "persist_directory": "chroma_db/default"
+    }
+]
